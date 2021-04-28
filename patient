@@ -1,2 +1,3 @@
 read patstatus
 is status-regular apply discount
+if insurance covergae write note to inusrance company
